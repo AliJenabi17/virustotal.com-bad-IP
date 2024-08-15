@@ -1,0 +1,147 @@
+2.88.193.30, "country": "SA", CINS, Fortinet, MalwareURL
+14.56.48.108, "country": "KR", SOCRadar
+18.163.184.173, "country": "HK", CINS, Cluster25, MalwareURL
+24.199.88.206, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+34.41.105.208, "country": "US", CINS, Fortinet
+36.140.28.213, "country": "CN", CINS, Fortinet, MalwareURL
+45.33.65.168, "country": "US", CINS
+45.56.115.147, "country": "US", Criminal, CINS, Fortinet, MalwareURL
+47.76.215.102, "country": "HK", Criminal, MalwareURL
+47.95.172.171, "country": "CN", Criminal
+47.121.119.82, "country": "CN", Criminal, MalwareURL
+47.121.197.1, "country": "CN", CINS, MalwareURL
+47.121.199.44, "country": "CN", CINS, CyRadar, Fortinet, MalwareURL
+47.237.99.135, "country": "SG", CINS, MalwareURL
+47.251.102.198, "country": "US", Cluster25, MalwareURL, SOCRadar
+58.16.186.87, "country": "CN", GreenSnow, MalwareURL
+58.22.82.166, "country": "CN", GreenSnow, MalwareURL
+59.44.129.72, "country": "CN", Criminal, CINS, GreenSnow, MalwareURL
+61.82.237.113, "country": "KR", MalwareURL
+64.225.120.93, "country": "US", CINS, Fortinet, MalwareURL
+64.227.146.91, "country": "IN", CINS, Fortinet
+67.205.136.142, "country": "US", Criminal, CINS, Fortinet, MalwareURL
+67.207.82.115, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+67.207.84.139, "country": "US", Criminal, CINS
+80.13.222.8, "country": "FR", SOCRadar
+80.94.95.45, "country": "RO", SOCRadar
+80.191.254.31, "country": "IR", MalwareURL
+82.127.139.17, "country": "FR", MalwareURL
+84.3.122.9, "country": "HU", MalwareURL, SOCRadar
+89.31.126.121, "country": "JP", Antiy-AVL, CINS, CyRadar, SOCRadar
+93.89.162.206, "country": "HU", MalwareURL, SOCRadar
+101.37.71.88, "country": "CN", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+101.42.135.58, "country": "CN", CINS, CyRadar, Fortinet, MalwareURL
+101.132.235.239, "country": "CN", CINS, CyRadar, Fortinet, MalwareURL
+103.182.103.80, "country": "IN", Criminal, Cluster25, MalwareURL
+103.203.59.6, "country": "CN", CINS
+103.205.60.49, "country": "VN", CINS
+103.205.60.239, "country": "VN", CINS, MalwareURL
+104.131.78.245, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+104.168.56.11, "country": "US", CINS, MalwareURL
+110.83.192.26, "country": "CN", Criminal, CINS, CRDF, GreenSnow, IPsum, MalwareURL
+111.75.232.29, "country": "CN", GreenSnow, MalwareURL
+111.172.5.155, "country": "CN", MalwareURL
+112.111.141.8, "country": "CN", GreenSnow, MalwareURL
+115.85.227.59, "country": "CN", GreenSnow, MalwareURL
+115.85.227.72, "country": "CN", Criminal, GreenSnow, MalwareURL
+115.85.227.82, "country": "CN", Criminal, GreenSnow, MalwareURL
+116.115.106.126, "country": "CN", MalwareURL
+116.176.18.47, "country": "CN", Criminal, GreenSnow, MalwareURL
+116.177.32.36, "country": "CN", Criminal, CINS, GreenSnow, IPsum, MalwareURL
+116.177.32.89, "country": "CN", GreenSnow, MalwareURL
+120.25.2.241, "country": "CN", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+120.38.253.226, "country": "CN", CINS, Cluster25, SOCRadar
+121.229.36.252, "country": "CN", Criminal, CINS, Fortinet, MalwareURL
+123.196.116.20, "country": "CN", Criminal, CINS, MalwareURL
+124.152.34.102, "country": "CN", Criminal, GreenSnow, MalwareURL
+124.152.40.13, "country": "CN", Criminal, CINS, GreenSnow, IPsum, MalwareURL
+128.199.16.84, "country": "IN", CINS
+134.209.126.105, "country": "US", Criminal, CINS, CyRadar, Fortinet
+134.209.156.146, "country": "IN", Criminal, CINS
+137.184.21.216, "country": "US", CINS, Fortinet, MalwareURL
+137.184.56.161, "country": "US", CINS, G-Data, MalwareURL
+137.184.104.175, "country": "US", CINS, Fortinet, MalwareURL
+137.184.206.42, "country": "US", Criminal, CINS, MalwareURL
+138.68.143.161, "country": "GB", CINS
+139.59.24.157, "country": "IN", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+139.59.86.197, "country": "IN", CINS
+139.162.10.149, "country": "SG", Criminal, CINS, Fortinet, MalwareURL
+139.170.229.17, "country": "CN", Criminal, GreenSnow, MalwareURL
+139.170.229.175, "country": "CN", GreenSnow, MalwareURL
+139.170.229.233, "country": "CN", Criminal, CINS, CyRadar, GreenSnow, IPsum, MalwareURL
+142.93.207.50, "country": "US", CINS, Fortinet, MalwareURL
+143.47.34.70, "country": "ES", CINS, CyRadar, Fortinet, MalwareURL
+143.110.184.203, "country": "IN", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+143.198.22.154, "country": "US", CINS, Fortinet
+143.244.133.16, "country": "IN", CINS, CyRadar, Fortinet, MalwareURL
+143.244.153.114, "country": "US", Criminal, CINS, Fortinet
+146.190.156.185, "country": "US", CINS, Fortinet, MalwareURL
+146.190.254.49, "country": "CA", CINS, CyRadar, Fortinet, MalwareURL
+147.182.138.60, "country": "US", CINS, Fortinet, MalwareURL
+147.182.177.79, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+147.182.184.233, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+154.12.253.149, "country": "US", CRDF, CyRadar, Fortinet, MalwareURL
+156.225.92.205, "country": "HK", CINS, Fortinet, MalwareURL
+157.230.144.30, "country": "US", CINS, Fortinet
+157.230.224.36, "country": "US", CINS
+157.230.232.225, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+157.245.130.229, "country": "US", CINS, Fortinet
+159.65.144.159, "country": "IN", CINS
+159.65.224.234, "country": "US", CINS
+159.65.252.61, "country": "US", CINS, Fortinet
+159.89.228.185, "country": "US", CINS, CyRadar, Fortinet
+159.148.50.126, "country": "LV", MalwareURL
+159.203.26.64, "country": "CA", CINS, MalwareURL
+159.223.86.53, "country": "SG", Criminal, Antiy-AVL, CRDF, CyRadar
+159.223.184.176, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+161.35.36.255, "country": "GB", CINS, CyRadar, Fortinet, MalwareURL
+161.35.174.5, "country": "GB", BitDefender, CINS, CyRadar, Fortinet, G-Data, MalwareURL, Sophos
+162.243.160.112, "country": "US", CINS, Fortinet
+164.92.108.88, "country": "US", CINS, Fortinet, MalwareURL
+165.22.124.225, "country": "GB", MalwareURL
+165.22.226.159, "country": "CA", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+165.227.47.12, "country": "CA", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+165.227.239.118, "country": "GB", CINS, CyRadar, Fortinet, MalwareURL
+167.99.15.88, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+167.172.50.11, "country": "GB", CINS, Fortinet, MalwareURL
+167.172.52.174, "country": "GB", CINS, Fortinet
+167.172.208.91, "country": "US", CINS
+172.104.62.183, "country": "SG", CINS, Fortinet, MalwareURL
+172.104.176.159, "country": "SG", CINS, Fortinet, MalwareURL
+172.105.3.175, "country": "CA", Abusix, CINS, CyRadar, Fortinet, MalwareURL
+172.207.20.246, "country": "JP", CINS, MalwareURL
+172.233.20.149, "country": "BR", CINS, Fortinet, MalwareURL
+172.233.190.107, "country": "US", Criminal, CINS, Fortinet, MalwareURL
+172.235.21.216, "country": "IN", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+178.79.144.107, "country": "GB", Criminal, CINS, CyRadar, Fortinet, Webroot
+178.128.89.78, "country": "SG", Criminal, CINS, CyRadar, Fortinet
+178.128.239.113, "country": "CA", Criminal, CINS, MalwareURL
+188.11.177.154, "country": "IT", MalwareURL, SOCRadar
+192.3.85.197, "country": "US", CINS, Fortinet
+192.34.61.141, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+192.241.131.187, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+198.199.80.206, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+204.48.31.180, "country": "US", Criminal, CINS, MalwareURL
+206.189.176.233, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+206.189.191.92, "country": "US", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+206.189.230.235, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+208.68.36.137, "country": "US", CINS
+208.68.37.248, "country": "US", CINS, CyRadar, Fortinet, MalwareURL
+208.103.169.222, "country": "GB", CINS, GreenSnow
+208.109.14.14, "country": "SG", Criminal, Antiy-AVL, CRDF, CyRadar, SOCRadar
+209.97.140.24, "country": "GB", Criminal, CINS, CyRadar, Fortinet
+209.97.185.249, "country": "GB", CINS, Fortinet
+212.50.99.121, "country": "CY", SOCRadar
+218.15.121.126, "country": "CN", CINS, GreenSnow, IPsum, MalwareURL
+218.201.160.39, "country": "CN", MalwareURL
+77.90.35.84, "country": "DE", CINS, Fortinet
+86.103.28.173, "country": "DE", MalwareURL
+89.186.157.221, "country": "DE", Criminal, CyRadar
+91.205.172.71, "country": "DE", CINS, Fortinet
+134.255.244.20, "country": "DE", CINS, CyRadar, Fortinet, MalwareURL
+134.255.244.30, "country": "DE", CINS, CyRadar, Fortinet, MalwareURL
+141.95.99.171, "country": "DE", SOCRadar
+164.90.185.39, "country": "DE", CINS, Fortinet
+164.92.232.193, "country": "DE", CINS, Fortinet
+165.22.17.147, "country": "DE", Criminal, CINS, CyRadar, Fortinet, MalwareURL
+165.22.24.243, "country": "DE", CINS
